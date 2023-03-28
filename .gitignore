@@ -26,6 +26,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+fitness-app-env/
+DjangoFitnessApp/fitness-app-env/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
